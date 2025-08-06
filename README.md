@@ -11,6 +11,9 @@
   <a href="mailto:ragupathic2005@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/ragupathichinraj/ragupathichinraj/blob/main/Ragupathi_C_%20Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/-My%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -21,7 +24,7 @@
 - 💬 Ask me about: **Python, SQL, Power BI, Java, Excel**  
 - 📫 Reach me: ragupathic2005@gmail.com  
 - 🌍 Location: Veppanapalli, Krishnagiri District, Tamil Nadu, India  
-- 📄 Resume: [View Resume](#) *(upload PDF to GitHub repo or link to Google Drive)*
+- 📄 Resume: [View Resume (PDF)](https://github.com/ragupathichinraj/ragupathichinraj/blob/main/Ragupathi_C_%20Resume.pdf)
 
 ---
 
@@ -38,6 +41,7 @@
 ---
 
 ### 📂 Projects
+
 | Project | Description |
 |--------|-------------|
 | [**Portfolio Website**](https://ragupathichinraj.github.io/) | Personal portfolio built with HTML, Tailwind CSS & JavaScript |
@@ -62,4 +66,3 @@
 > 🌐 Portfolio: [ragupathichinraj.github.io](https://ragupathichinraj.github.io)  
 > 💼 LinkedIn: [linkedin.com/in/ragupathi-c](https://linkedin.com/in/ragupathi-c)  
 > 🧠 LeetCode: [leetcode.com/u/Ragupathi_C](https://leetcode.com/u/Ragupathi_C)
-
