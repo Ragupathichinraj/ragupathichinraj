@@ -24,7 +24,7 @@
 - 💬 Ask me about: **Python, SQL, Power BI, Java, Excel**  
 - 📫 Reach me: ragupathic2005@gmail.com  
 - 🌍 Location: Veppanapalli, Krishnagiri District, Tamil Nadu, India  
-- 📄 Resume: [View Resume (PDF)](https://github.com/ragupathichinraj/ragupathichinraj/blob/main/Ragupathi_C_%20Resume.pdf)
+- 📄 Resume: [View Resume (PDF)](https://github.com/Ragupathichinraj/ragupathichinraj/blob/main/RagupathiC_Resume2025.pdf)
 
 ---
 
