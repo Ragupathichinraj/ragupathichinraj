@@ -25,7 +25,7 @@
 - 💬 Ask me about: **Python, SQL, Power BI, Machine Learning, AWS, Google Cloud**
 - 📫 Reach me: ragupathic2005@gmail.com
 - 🌍 Location: Bangalore, Karnataka, India
-- 📄 Resume: [View Resume (PDF)](https://github.com/ragupathichinraj/ragupathichinraj/blob/main/Ragupathi_C_%20Resume.pdf)
+- 📄 Resume: [View Resume (PDF)](https://github.com/Ragupathichinraj/ragupathichinraj/blob/main/RagupathiC_Resume2025.pdf)
 
 <br>
 
