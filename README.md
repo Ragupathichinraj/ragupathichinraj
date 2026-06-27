@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ragupathichinraj/ragupathichinraj/blob/main/Ragupathi_C_%20Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/-My%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+    <img src="https://github.com/Ragupathichinraj/ragupathichinraj/blob/main/RagupathiC_Resume2025.pdf" />
   </a>
 </p>
 
